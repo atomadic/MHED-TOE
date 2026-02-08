@@ -3,7 +3,7 @@
 
 **Microtubule Yukawa Dynamics Generate E8→SM Fermion Spectrum & Consciousness**
 
-[![arXiv](https://img.shields.io/badge/arXiv-2602.00001-b31b1b.svg)](https://arxiv.org/abs/2602.00001)
+[![arXiv](https://img.shields.io/badge/arXiv--b31b1b.svg)](https://arxiv.org/abs/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
