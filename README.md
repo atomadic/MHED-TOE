@@ -156,6 +156,6 @@ MIT License - see LICENSE for details.
 
 🔗 Links
 
-· arXiv: https://arxiv.org/abs/2602.00001
+· arXiv: https://arxiv.org/abs/
 · GitHub: https://github.com/atomadic/MHED-TOE
-· Twitter: @MHED_TOE (coming soon)
+· X: @MHED_TOE (coming soon)
