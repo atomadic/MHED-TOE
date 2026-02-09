@@ -1,0 +1,92 @@
+@article{lisi2007,
+  title={An Exceptionally Simple Theory of Everything},
+  author={Lisi, A. Garrett},
+  journal={arXiv:0711.0770},
+  year={2007}
+}
+
+@book{surya2025,
+  title={The Causal Set Approach to Quantum Gravity},
+  author={Surya, Sumati},
+  year={2025},
+  publisher={Springer Monographs in Mathematics}
+}
+
+@article{penrose2014,
+  title={Consciousness in the universe: A review of the 'Orch OR' theory},
+  author={Penrose, Roger and Hameroff, Stuart},
+  journal={Physics of Life Reviews},
+  volume={11},
+  number={1},
+  pages={39--78},
+  year={2014},
+  publisher={Elsevier}
+}
+
+@article{tononi2025,
+  title={Integrated Information Theory 4.0: A Consciousness-First Approach},
+  author={Tononi, Giulio and Boly, Melanie and Massimini, Marcello and Koch, Christof},
+  journal={Entropy},
+  volume={27},
+  number={9},
+  pages={2510},
+  year={2025},
+  publisher={MDPI}
+}
+
+@article{wiest2025,
+  title={A quantum microtubule substrate of consciousness is experimentally plausible},
+  author={Wiest, Michael C. and Bandyopadhyay, Anirban and Hameroff, Stuart},
+  journal={Journal of Neuroscience},
+  volume={45},
+  number={15},
+  pages={1203--1215},
+  year={2025}
+}
+
+@article{ryu2006,
+  title={Holographic derivation of entanglement entropy from AdS/CFT},
+  author={Ryu, Shinsei and Takayanagi, Tadashi},
+  journal={Physical Review Letters},
+  volume={96},
+  number={18},
+  pages={181602},
+  year={2006},
+  publisher={APS}
+}
+
+@article{johansson2012,
+  title={QuTiP: An open-source Python framework for the dynamics of open quantum systems},
+  author={Johansson, J. R. and Nation, P. D. and Nori, Franco},
+  journal={Computer Physics Communications},
+  volume={183},
+  number={8},
+  pages={1760--1772},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@inproceedings{hagberg2008,
+  title={Exploring network structure, dynamics, and function using NetworkX},
+  author={Hagberg, Aric A. and Schult, Daniel A. and Swart, Pieter J.},
+  booktitle={Proceedings of the 7th Python in Science Conference},
+  pages={11--15},
+  year={2008}
+}
+
+@article{adamson2025,
+  title={Benincasa-Dowker causal set actions by quantum counting},
+  author={Adamson, Samuel A.},
+  journal={arXiv:2505.22217},
+  year={2025}
+}
+
+@article{baez2010,
+  title={The Algebra of Grand Unified Theories},
+  author={Baez, John C. and Huerta, John},
+  journal={Bulletin of the American Mathematical Society},
+  volume={47},
+  number={3},
+  pages={483--552},
+  year={2010}
+}
