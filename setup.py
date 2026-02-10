@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="mhed_toe",
-    version="1.0.0",
+    version="1.1.0",
     author="Thomas Ralph Colvin IV",
     author_email="atomadic@proton.me",
     description="Monadic-Hex Entropic Dynamics Theory of Everything",
@@ -17,12 +17,9 @@ setup(
         "Development Status :: 4 - Beta",
         "Intended Audience :: Science/Research",
         "Topic :: Scientific/Engineering :: Physics",
-        "Topic :: Scientific/Engineering :: Artificial Intelligence",
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.9",
-        "Programming Language :: Python :: 3.10",
-        "Programming Language :: Python :: 3.11",
         "Operating System :: OS Independent",
     ],
     python_requires=">=3.9",
@@ -42,15 +39,6 @@ setup(
             "flake8>=5.0",
             "jupyter>=1.0.0",
             "seaborn>=0.11.0",
-        ],
-        "docs": [
-            "sphinx>=5.0",
-            "sphinx-rtd-theme>=1.0",
-        ],
-    },
-    entry_points={
-        "console_scripts": [
-            "mhed-simulate=mhed_toe.cli:main",
         ],
     },
 )

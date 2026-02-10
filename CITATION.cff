@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use MHED-TOE in your research, please cite the arXiv paper."
+title: "Monadic-Hex Entropic Dynamics Theory of Everything (MHED-TOE)"
+authors:
+
+- family-names: "Colvin"
+  given-names: "Thomas Ralph IV"
+  abstract: "A unified framework for quantum gravity, the Standard Model, and consciousness through microtubule dynamics."
+  version: 1.1.0
+  license: MIT
+  repository-code: "https://github.com/atomadic/MHED-TOE"
+  date-released: 2026-02-09
